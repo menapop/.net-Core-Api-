@@ -4,3 +4,4 @@ WebApi Example with DDD
 -Fluent Configuration and Validation 
 - Logging using nlog 
 -Repository 
+-Jwt Authentication and Authorization 
